@@ -67,18 +67,9 @@ python manage.py test
 	- `pollsapp/templates/` - HTML templates: `index.html`, `vote.html`, `result.html`
 	- `pollsapp/static/` - Static assets (CSS)
 
-**Notes**
 
-- There is a database file `db.sqlite3` included for convenience (development only). Do not use this for production.
-- I noticed a duplicate/typo file named `READEME.MD` in the same folder. If you want, I can remove or sync it with this `README.md`.
 
-**Contributing**
 
-If you want improvements or changes to the app, open an issue or submit a PR. For quick local changes, follow the Setup steps above.
 
-**License**
-
-This repository does not include a license file. If you want an open-source license added (MIT/Apache/etc.), tell me which one and I can add it.
 
 ---
-If you'd like the README expanded (screenshots, deploy instructions, or CI setup), tell me what you'd like included.
